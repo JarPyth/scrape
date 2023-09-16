@@ -1,0 +1,2322 @@
+[ 
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "1",
+     "jawaban": "Aaron Ramsdale"
+   }, 
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "22",
+     "jawaban": "David Raya"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇪",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "31",
+     "jawaban": "Karl Hein"
+   },
+   { 
+     "posisi": "Bek Tengah",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "2",
+     "jawaban": "William Saliba"
+   },
+   { 
+     "posisi": "Bek Tengah",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "6",
+     "jawaban": "Gabriel Magalhaes"
+   },
+   { 
+     "posisi": "Bek Tengah",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "12",
+     "jawaban": "Jurrien Timber"
+   },
+   { 
+     "posisi": "Bek Tengah",
+     "negara": "🇵🇱",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "15",
+     "jawaban": "Jakub Kiwior"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇺🇦",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "35",
+     "jawaban": "Oleksandr Zinchenko"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "4",
+     "jawaban": "Ben White"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇯🇵",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "18",
+     "jawaban": "Takehiro Tomiyasu"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "17",
+     "jawaban": "Cedric Soares"
+   },
+   { 
+     "posisi": "Gelandang Bertahan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "41",
+     "jawaban": "Declan Rice"
+   },
+   { 
+     "posisi": "Gelandang Bertahan",
+     "negara": "🇮🇹",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "20",
+     "jawaban": "Jorginho"
+   },
+   { 
+     "posisi": "Gelandang Bertahan",
+     "negara": "🇬🇭",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "5",
+     "jawaban": "Thomas Partey"
+   },
+   { 
+     "posisi": "Gelandang Bertahan",
+     "negara": "🇪🇬",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "25",
+     "jawaban": "Mohamed Elneny"
+   },
+   { 
+     "posisi": "Gelandang Serang",
+     "negara": "🇳🇴",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "8",
+     "jawaban": "Martin Odegaard"
+   },
+   { 
+     "posisi": "Gelandang Serang",
+     "negara": "🇩🇪",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "29",
+     "jawaban": "Kai Havertz"
+   },
+   { 
+     "posisi": "Gelandang Serang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "10",
+     "jawaban": "Emile Smith Rowe"
+   },
+   { 
+     "posisi": "Gelandang Serang",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "21",
+     "jawaban": "Fablo Vieira"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "11",
+     "jawaban": "Gabriel Martinelli"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇧🇪",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "19",
+     "jawaban": "Leandro Trossard"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "7",
+     "jawaban": "Bukayo Saka"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "24",
+     "jawaban": "Reiss Nelson"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "9",
+     "jawaban": "Gabriel Jesus"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Arsenal",
+     "nopung": "14",
+     "jawaban": "Eddie Nketiah"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "1",
+     "jawaban": "Emiliano Martinez"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇸🇪",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "25",
+     "jawaban": "Robin Olsen"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "14",
+     "jawaban": "Pau Torres"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "4",
+     "jawaban": "Ezri Konsa"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "5",
+     "jawaban": "Tyrone Mings"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "3",
+     "jawaban": "Diego Carlos"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "17",
+     "jawaban": "Clement Lenglet"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "30",
+     "jawaban": "Kortney Hause"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "12",
+     "jawaban": "Lucas Digne"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "15",
+     "jawaban": "Alex Moreno"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇵🇱",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "2",
+     "jawaban": "Matty Cash"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "41",
+     "jawaban": "Jacob Ramsey"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "6",
+     "jawaban": "Douglas Luiz"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇪",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "8",
+     "jawaban": "Youri Tielemans"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "7",
+     "jawaban": "John McGinn"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇮🇹",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "22",
+     "jawaban": "Nicolo Zaniolo"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇯🇲",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "31",
+     "jawaban": "Leon Bailey"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "19",
+     "jawaban": "Moussa Diaby"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "10",
+     "jawaban": "Emiliano Buendia"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇧🇫",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "9",
+     "jawaban": "Bertrand Traore"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "11",
+     "jawaban": "Ollie Watkins"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇨🇴",
+     "liga": "Liga Inggris",
+     "klub": "Aston Villa",
+     "nopung": "24",
+     "jawaban": "John Duran"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "1",
+     "jawaban": "Robert Sanchez"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "33",
+     "jawaban": "Wesley Fofana"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "5",
+     "jawaban": "Benoit Badiashile"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "26",
+     "jawaban": "Levi Colwill"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "2",
+     "jawaban": "Axel Disasi"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "31",
+     "jawaban": "Malang Sarr"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "6",
+     "jawaban": "Thiago Silva"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "3",
+     "jawaban": "Marc Cucurella"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "21",
+     "jawaban": "Ben Chilwell"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "29",
+     "jawaban": "Ian Matsen"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "24",
+     "jawaban": "Reece James"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "27",
+     "jawaban": "Malo Gusto"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "8",
+     "jawaban": "Enzo Fernandez"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇨",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "25",
+     "jawaban": "Moises Caicedo"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇪",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "45",
+     "jawaban": "Romeo Lavia"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "23",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "jawaban": "Conor Gallagher"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "7",
+     "jawaban": "Raheem Sterling"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇺🇦",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "10",
+     "jawaban": "Mykhaylo Mudryk"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "11",
+     "jawaban": "Noni Madueke"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "20",
+     "jawaban": "Cole Palmer"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "18",
+     "jawaban": "Christopher Nkunku"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇸🇳",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "15",
+     "jawaban": "Nicolas Jackson"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇦🇱",
+     "liga": "Liga Inggris",
+     "klub": "Chelsea FC",
+     "nopung": "19",
+     "jawaban": "Armando Broja"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "1",
+     "jawaban": "Alisson"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇮🇪",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "62",
+     "jawaban": "Caoimhin Kelleher"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "13",
+     "jawaban": "Adrian"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "5",
+     "jawaban": "Ibrahima Konate"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "4",
+     "jawaban": "Virgil van Dijk"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "2",
+     "jawaban": "Joe Gomez"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇨🇲",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "32",
+     "jawaban": "Joel Matip"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "26",
+     "jawaban": "Andrew Robertson"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "66",
+     "jawaban": "Trent Alexander Arnold"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇯🇵",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "3",
+     "jawaban": "Wataru Endo"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "10",
+     "jawaban": "Alexis Mac Allister"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "38",
+     "jawaban": "Ryan Gravenberch"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "17",
+     "jawaban": "Curtis Jones"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "6",
+     "jawaban": "Thiago"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇭🇺",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "8",
+     "jawaban": "Dominik Szoboszlai"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "19",
+     "jawaban": "Harvey Elliott"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇨🇴",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "7",
+     "jawaban": "Luis Diaz"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "18",
+     "jawaban": "Cody Gakpo"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇪🇬",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "11",
+     "jawaban": "Mohamed Salah"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇺🇾",
+     "liga": "Liga Inggris",
+     "klub": "Liverpool FC",
+     "nopung": "9",
+     "jawaban": "Darwin Nunez"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "31",
+     "jawaban": "Ederson"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇩🇪",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "18",
+     "jawaban": "Stefan Ortega"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇺🇲",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "13",
+     "jawaban": "Zack Steffen"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "33",
+     "jawaban": "Scott Carson"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "3",
+     "jawaban": "Ruben Dias"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇭🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "24",
+     "jawaban": "Josko Gvardiol"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "6",
+     "jawaban": "Nathan Ake"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "5",
+     "jawaban": "John Stones"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇨🇭",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "25",
+     "jawaban": "Manuel Akanji"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "21",
+     "jawaban": "Sergio Gomez"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "82",
+     "jawaban": "Rico Lewis"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "2",
+     "jawaban": "Kyle Walker"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "16",
+     "jawaban": "Rodri"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "4",
+     "jawaban": "Kalvin Phillps"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "27",
+     "jawaban": "Matheus Nunes"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇭🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "8",
+     "jawaban": "Mateo Kovacic"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "20",
+     "jawaban": "Bernardo Silva"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇪",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "17",
+     "jawaban": "Kevin De Bruyne"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "47",
+     "jawaban": "Phil Foden"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "10",
+     "jawaban": "Jack Grealish"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇧🇪",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "11",
+     "jawaban": "Jeremy Doku"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇳🇴",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "52",
+     "jawaban": "Oscar Bobb"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇳🇴",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "9",
+     "jawaban": "Erling Haaland"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester City",
+     "nopung": "19",
+     "jawaban": "Julian Alvarez"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇨🇲",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "24",
+     "jawaban": "Andre Onana"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇹🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "1",
+     "jawaban": "Altay Bayindir"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "22",
+     "jawaban": "Tom Heaton"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "6",
+     "jawaban": "Lisandro Martinez"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "19",
+     "jawaban": "Raphael Varane"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "5",
+     "jawaban": "Harry Maguire"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇸🇪",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "2",
+     "jawaban": "Victor Lindelof"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "35",
+     "jawaban": "Jonny Evans"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "23",
+     "jawaban": "Luke Shaw"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "12",
+     "jawaban": "Tyrell Malacia"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "15",
+     "jawaban": "Sergio Reguilon"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "20",
+     "jawaban": "Diogo Dalot"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "29",
+     "jawaban": "Aaron Wan Bissaka"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "18",
+     "jawaban": "Casemiro"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇲🇦",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "4",
+     "jawaban": "Sofyan Amrabat"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "39",
+     "jawaban": "Scott McTominay"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "34",
+     "jawaban": "Donny van de Beek"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "37",
+     "jawaban": "Kobbie Mainoo"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇵🇹",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "8",
+     "jawaban": "Bruno Fernandes"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "7",
+     "jawaban": "Mason Mount"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇩🇰",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "14",
+     "jawaban": "Christian Eriksen"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇹🇳",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "46",
+     "jawaban": "Hannibal"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "47",
+     "jawaban": "Shola Shoretire"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "10",
+     "jawaban": "Marcus Rashford"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "25",
+     "jawaban": "Jadon Sancho"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "17",
+     "jawaban": "Alejandro Garnacho"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "21",
+     "jawaban": "Antony"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇮🇪",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "16",
+     "jawaban": "Amad Diallo"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇺🇾",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "28",
+     "jawaban": "Facundo Pellistri"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇩🇰",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "11",
+     "jawaban": "Rasmus Hojlund"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Manchester United",
+     "nopung": "9",
+     "jawaban": "Anthony Martial"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "22",
+     "jawaban": "Nick Pope"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇸🇰",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "1",
+     "jawaban": "Martin Dubravka"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇩🇪",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "18",
+     "jawaban": "Loris Karius"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "29",
+     "jawaban": "Mark Gillespie"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "4",
+     "jawaban": "Sven Botman"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇨🇭",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "5",
+     "jawaban": "Fabian Schar"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "6",
+     "jawaban": "Jamaal Lascelles"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "13",
+     "jawaban": "Matt Targett"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "20",
+     "jawaban": "Lewis Hall"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "33",
+     "jawaban": "Dan Burn"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "3",
+     "jawaban": "Paul Dummett"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "2",
+     "jawaban": "Kieran Trippier"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇸🇪",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "17",
+     "jawaban": "Emil Krafth"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "19",
+     "jawaban": "Javier Manquillo"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "39",
+     "jawaban": "Bruno Guimaraes"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇮🇹",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "8",
+     "jawaban": "Sandro Tonali"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "7",
+     "jawaban": "Joelinton"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "28",
+     "jawaban": "Joe Willock"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "36",
+     "jawaban": "Sean Longstaff"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "11",
+     "jawaban": "Matt Ritchie"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "32",
+     "jawaban": "Elliot Anderson"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "10",
+     "jawaban": "Anthony Gordon"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "15",
+     "jawaban": "Harvey Barnes"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇵🇾",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "24",
+     "jawaban": "Miguel Almiron"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "23",
+     "jawaban": "Jacob Murphy"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇸🇪",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "14",
+     "jawaban": "Alexander Isak"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Newcastle United",
+     "nopung": "9",
+     "jawaban": "Callum Wilson"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇮🇹",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "13",
+     "jawaban": "Guglielmo Vicario"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇫🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "1",
+     "jawaban": "Hugo Lloris"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "20",
+     "jawaban": "Fraser Forster"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "17",
+     "jawaban": "Cristian Romero"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇳🇱",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "37",
+     "jawaban": "Micky van de Ven"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "15",
+     "jawaban": "Eric Dier"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "35",
+     "jawaban": "Ashley Phillips"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇮🇹",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "38",
+     "jawaban": "Destiny Udogie"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "33",
+     "jawaban": "Ben Davies"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "23",
+     "jawaban": "Pedro Porro"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "12",
+     "jawaban": "Emerson Royal"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "4",
+     "jawaban": "Oliver Skipp"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇺🇾",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "30",
+     "jawaban": "Rodrigo Bentancur"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇲🇱",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "8",
+     "jawaban": "Yves Bissouma"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇸🇳",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "29",
+     "jawaban": "Pape Matar Sarr"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇭🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "14",
+     "jawaban": "Ivan Perisic"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "10",
+     "jawaban": "James Maddison"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "18",
+     "jawaban": "Giovani Lo Celso"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇰🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "7",
+     "jawaban": "Heung Min Son"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇮🇱",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "27",
+     "jawaban": "Manor Solomon"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇪🇸",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "11",
+     "jawaban": "Bryan Gil"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇸🇪",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "21",
+     "jawaban": "Dejan Kulusevski"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "22",
+     "jawaban": "Brennan Johnson"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇧🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "9",
+     "jawaban": "Richarlison"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇦🇷",
+     "liga": "Liga Inggris",
+     "klub": "Tottenham Hotspur",
+     "nopung": "36",
+     "jawaban": "Alejo Veliz"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇧🇪",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "1",
+     "jawaban": "Thibaut Courtois"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "25",
+     "jawaban": "Kepa Arrizabalaga"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇺🇦",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "13",
+     "jawaban": "Andriy Lunin"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇧🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "3",
+     "jawaban": "Eder Militao"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇦🇹",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "4",
+     "jawaban": "David Alaba"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇩🇪",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "22",
+     "jawaban": "Antonio Rudiger"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "6",
+     "jawaban": "Nacho Fernandez"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇫🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "23",
+     "jawaban": "Ferland Mendy"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "20",
+     "jawaban": "Fran Garcia"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "2",
+     "jawaban": "Daniel Carvajal"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "17",
+     "jawaban": "Lucas Vazquez"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇫🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "18",
+     "jawaban": "Aurelien Tchouameni"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "5",
+     "jawaban": "Jude Bellingham"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇺🇾",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "15",
+     "jawaban": "Federico Valverde"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇫🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "12",
+     "jawaban": "Eduardo Camavinga"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇩🇪",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "8",
+     "jawaban": "Toni Kross"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "19",
+     "jawaban": "Dani Ceballos"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇭🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "10",
+     "jawaban": "Luka Modric"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "21",
+     "jawaban": "Brahim Diaz"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇹🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "24",
+     "jawaban": "Arda Guler"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇧🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "7",
+     "jawaban": "Vinicius Junior"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇧🇷",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "11",
+     "jawaban": "Rodrygo"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Real Madrid",
+     "nopung": "14",
+     "jawaban": "Joselu"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇸🇮",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "13",
+     "jawaban": "Jan Oblak"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇭🇷",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "1",
+     "jawaban": "Ivo Grbic"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "22",
+     "jawaban": "Mario Hermoso"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "17",
+     "jawaban": "Javi Galan"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇦🇷",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "16",
+     "jawaban": "Nahuel Molina"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇧🇪",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "20",
+     "jawaban": "Axel Witsel"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇦🇷",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "5",
+     "jawaban": "Rodrigo de Paul"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "14",
+     "jawaban": "Marcos Llorente"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "6",
+     "jawaban": "Koke"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "25",
+     "jawaban": "Rodrigo Riquelme"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇦🇷",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "10",
+     "jawaban": "Angel Correa"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇫🇷",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "7",
+     "jawaban": "Antonie Griezmann"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "19",
+     "jawaban": "Alvaro Morata"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇳🇱",
+     "liga": "LaLiga",
+     "klub": "Atletico Madrid",
+     "nopung": "9",
+     "jawaban": "Memphis Depay"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇩🇪",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "1",
+     "jawaban": "Ter Stegen"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇺🇾",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "4",
+     "jawaban": "Ronald Araujo"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "23",
+     "jawaban": "Jules Kounde"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇩🇰",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "15",
+     "jawaban": "Andreas Christensen"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "5",
+     "jawaban": "Inigo Martinez"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "3",
+     "jawaban": "Alejandro Balde"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "17",
+     "jawaban": "Marcos Alonso"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇵🇹",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "2",
+     "jawaban": "Joao Cancelo"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "20",
+     "jawaban": "Sergi Roberto"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "8",
+     "jawaban": "Pedri"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "6",
+     "jawaban": "Gavi"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇳🇱",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "21",
+     "jawaban": "Frenkie de Jong"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇩🇪",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "22",
+     "jawaban": "Ilkay Gundogan"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "32",
+     "jawaban": "Fermin Lopez"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇧🇷",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "11",
+     "jawaban": "Raphinha"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "7",
+     "jawaban": "Ferran Torres"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇪🇸",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "27",
+     "jawaban": "Lamine Yamal"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇵🇹",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "14",
+     "jawaban": "Joao Felix"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇵🇱",
+     "liga": "LaLiga",
+     "klub": "FC Barcelona",
+     "nopung": "9",
+     "jawaban": "Robert Lewandowski"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇮🇹",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "99",
+     "jawaban": "Gianluigi Donnarumma"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇸",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "80",
+     "jawaban": "Arnau Tenas"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇨🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "1",
+     "jawaban": "Keylor Navas"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇪🇸",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "16",
+     "jawaban": "Sergio Rico"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "30",
+     "jawaban": "Alexandre Letellier"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇧🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "5",
+     "jawaban": "Marquinhos"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇸🇰",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "37",
+     "jawaban": "Milan Skriniar"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "21",
+     "jawaban": "Lucas Hernandez"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "3",
+     "jawaban": "Presnel Kimpembe"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇵🇹",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "25",
+     "jawaban": "Nuno Mendes"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇲🇦",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "2",
+     "jawaban": "Achraf Hakimi"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "26",
+     "jawaban": "Nordi Mukiele"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇵🇹",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "15",
+     "jawaban": "Danilo Pereira"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇵🇹",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "17",
+     "jawaban": "Vitinha"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "8",
+     "jawaban": "Fabian Ruiz"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇪🇸",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "28",
+     "jawaban": "Carlos Soler"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇰🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "19",
+     "jawaban": "Kang in Lee"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇪🇸",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "11",
+     "jawaban": "Marco Asensio"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "10",
+     "jawaban": "Ousmane Dembele"
+   },
+   { 
+     "posisi": "Strike",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "7",
+     "jawaban": "Kylian Mbappe"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇫🇷",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "23",
+     "jawaban": "Randal Kolo Muani"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇵🇹",
+     "liga": "Ligue 1",
+     "klub": "Paris Saint-Germain",
+     "nopung": "9",
+     "jawaban": "Goncalo Ramos"
+   },
+   { 
+     "posisi": "Kiper",
+     "negara": "🇫🇷",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "16",
+     "jawaban": "Mike Maignan"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "23",
+     "jawaban": "Fikayo Tomori"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇩🇰",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "24",
+     "jawaban": "Simon Kjaer"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇦🇷",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "31",
+     "jawaban": "Marco Pellegrino"
+   },
+   { 
+     "posisi": "Bek",
+     "negara": "🇩🇪",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "28",
+     "jawaban": "Malick Thiaw"
+   },
+   { 
+     "posisi": "Bek Kiri",
+     "negara": "🇫🇷",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "19",
+     "jawaban": "Theo Hernandez"
+   },
+   { 
+     "posisi": "Bek Kanan",
+     "negara": "🇮🇹",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "42",
+     "jawaban": "Alessandro Florenzi"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇩🇿",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "4",
+     "jawaban": "Ismael Bennacer"
+   },
+   { 
+     "posisi": "Gelandang",
+     "negara": "🇺🇲",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "80",
+     "jawaban": "Yunus Musah"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇵🇹",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "10",
+     "jawaban": "Rafael Leao"
+   },
+   { 
+     "posisi": "Sayap Kiri",
+     "negara": "🇨🇮",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "70",
+     "jawaban": "Chaka Traore"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇺🇲",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "11",
+     "jawaban": "Christian Pulisic"
+   },
+   { 
+     "posisi": "Sayap Kanan",
+     "negara": "🇦🇷",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "18",
+     "jawaban": "Luka Romero"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇷🇸",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "15",
+     "jawaban": "Luka Jovic"
+   },
+   { 
+     "posisi": "Striker",
+     "negara": "🇫🇷",
+     "liga": "Serie A",
+     "klub": "AC Milan",
+     "nopung": "9",
+     "jawaban": "Olivier Giroud"
+   }
+]
